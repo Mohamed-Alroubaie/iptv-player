@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'IPTV Player',
-  description: 'IPTV Player for watching live TV streams',
+  title: 'مشغل IPTV - بث مباشر عالي الجودة',
+  description:
+    'مشغل IPTV بسيط وسريع مع دعم لقنوات الستلايت. استمتع بمشاهدة البث المباشر بجودة عالية.',
 };
 
 export default function RootLayout({
